@@ -1,0 +1,26 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Developed <i class="fa fa-code"></i> by <a href="www.github.com/var7">Viraat Aryabumi</a></span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <!--<ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>-->
+                    <span class="copyright"><i class="fa fa-paint-brush"></i><a href="http://jekyllthemes.org/themes/agency/">Agency Theme</a></span>
+                </div>
+            </div>
+        </div>
+    </footer>
