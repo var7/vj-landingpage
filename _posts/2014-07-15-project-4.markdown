@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: 4.jpg
-thumbnail: 4.jpg
+thumbnail: 4thumb.jpg
 alt: image-alt
 project-date: 2011
 description: Represented a team from India at the Gothia Cup 2011 – The World Youth Championship held in Gothenburg, Sweden. Participated in the U19 category aged 16. Was also the vice-captain of the team (2011)

@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: 5.jpg
-thumbnail: 5.jpg
+thumbnail: 5thumb.jpg
 alt: image-alt
 project-date: 2010 - present
 description: Captain of Apollo FC , local amateur football team in Hyderabad. 

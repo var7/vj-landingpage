@@ -5,9 +5,8 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: 3.jpg
-thumbnail: 3.jpg
+thumbnail: 3thumb.jpg
 alt: image-alt
 project-date: 2012-2015
 description: 4 University football medals in 3 years
-
 ---
