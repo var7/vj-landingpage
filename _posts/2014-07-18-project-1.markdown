@@ -1,9 +1,9 @@
 ---
 title: University Team
-subtitle: Member of Newcastle University Team
+subtitle: 
 layout: default
 modal-id: 1
-date: 2014-07-19
+date: 2014-07-18
 img: 1.jpg
 thumbnail: 1thumb.jpg
 alt: image-alt

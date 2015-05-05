@@ -1,8 +1,8 @@
 ---
 title: Gothia Cup
-subtitle: Represented a team from India at the Gothia
+subtitle: 
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2014-07-15
 img: 4.jpg
 thumbnail: 4thumb.jpg

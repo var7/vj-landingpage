@@ -1,8 +1,8 @@
 ---
 title: University Medals
-subtitle: 4 University football medals in 3 years
+subtitle: 
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-16
 img: 3.jpg
 thumbnail: 3thumb.jpg

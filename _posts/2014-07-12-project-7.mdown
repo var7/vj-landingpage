@@ -1,8 +1,8 @@
 ---
 title: Sportsman of the Year
-subtitle: Named school’s “Sportsman Of The Year” 
+subtitle: 
 layout: default
-modal-id: 8
+modal-id: 7
 date: 2014-07-12
 img: 7.jpg
 thumbnail: 7thumb.jpg

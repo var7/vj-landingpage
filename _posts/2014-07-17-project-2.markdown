@@ -1,9 +1,9 @@
 ---
 title: NUBS Captain
-subtitle: Captain of Newcastle University Business School Team
+subtitle: 
 layout: default
 modal-id: 2
-date: 2014-07-18
+date: 2014-07-17
 img: 2.jpg
 thumbnail: 2thumb.jpg
 alt: image-alt

@@ -1,8 +1,8 @@
 ---
 title: Zonal and National Level
-subtitle: Zonal and National level school football tournaments 
+subtitle:  
 layout: default
-modal-id: 9
+modal-id: 8
 date: 2014-07-11
 img: 8.jpg
 thumbnail: 8thumb.jpg
