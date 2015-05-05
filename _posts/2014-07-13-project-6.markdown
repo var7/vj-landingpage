@@ -1,6 +1,6 @@
 ---
-title: Captain of School Team
-subtitle: 
+title: School Team Captain
+subtitle: Captain of the School Football Team
 layout: default
 modal-id: 6
 date: 2014-07-13

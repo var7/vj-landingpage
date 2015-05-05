@@ -1,0 +1,12 @@
+---
+title: University Team
+subtitle: Member of Newcastle University team
+layout: default
+modal-id: 1
+date: 2014-07-19
+img: 1.jpg
+thumbnail: 1thumb.jpg
+alt: image-alt
+project-date: 2014-2015
+description: Participated in BUCS (British Universities & Colleges Sport) league 2014-2015 as a member of Newcastle University Football team.
+---

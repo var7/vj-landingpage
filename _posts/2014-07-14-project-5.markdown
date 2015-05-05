@@ -1,6 +1,6 @@
 ---
 title: Captain of AFC
-subtitle:
+subtitle: Captain of Apollo FC, local amateur team
 layout: default
 modal-id: 5
 date: 2014-07-14

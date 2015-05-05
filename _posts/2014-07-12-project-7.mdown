@@ -1,6 +1,6 @@
 ---
-title: Sportsman of the Year
-subtitle: 
+title: "Sportsman"
+subtitle: Sportsman of the Year at School
 layout: default
 modal-id: 7
 date: 2014-07-12

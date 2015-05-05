@@ -1,8 +1,8 @@
 ---
 title: Trained with BFC U21
-subtitle: 
+subtitle: Trained with Bengaluru FC's U21 team
 layout: default
-modal-id: 5
+modal-id: 10
 date: 2014-07-15
 img: 10.jpg
 thumbnail: 10thumb.jpg
