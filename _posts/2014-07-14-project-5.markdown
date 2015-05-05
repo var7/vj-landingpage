@@ -2,7 +2,7 @@
 title: Captain of AFC
 subtitle: Captain of Apollo FC
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-07-14
 img: 5.jpg
 thumbnail: 5thumb.jpg

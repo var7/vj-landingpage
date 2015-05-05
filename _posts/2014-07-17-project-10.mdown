@@ -2,8 +2,8 @@
 title: Trained with BFC U21
 subtitle: Trained with Bengaluru FC's U21 team during the summer of 2014
 layout: default
-modal-id: 5
-date: 2014-07-09
+modal-id: 3
+date: 2014-07-17
 img: 10.jpg
 thumbnail: 10thumb.jpg
 alt: image-alt
