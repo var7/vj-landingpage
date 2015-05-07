@@ -8,5 +8,5 @@ img: 2.jpg
 thumbnail: 2thumb.jpg
 alt: image-alt
 project-date: 2014-2015
-description: Captain of NUBS football team (Newcastle University Business School). Led the team to win in a 5-a-side tournament. Finished runners-up once in a 5-a-side and 7-a-side tournament.
+description: Captain of NUBS football team (Newcastle University Business School). Led the team to first ever gold and silver in university 5 a side and 7 a side leagues respectively. Finished 2nd in table in the full 11 a side season - the highest ever finish in NUBS history.
 ---
